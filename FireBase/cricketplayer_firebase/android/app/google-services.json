@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "864210999094",
+    "project_id": "playernames-82db4",
+    "storage_bucket": "playernames-82db4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864210999094:android:a6118964e4224f7327c597",
+        "android_client_info": {
+          "package_name": "com.example.cricketplayer_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7f5zkiw1RGaNL8F7a7eg_LkBSmAL-SI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
